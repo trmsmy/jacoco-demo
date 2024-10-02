@@ -1,0 +1,1 @@
+java -jar src/main/resources/lib/org.jacoco.cli-0.8.12.jar report target/jacoco-server.exec --classfiles target/classes/com --sourcefiles src/main/java/ --html target/jacoco-report

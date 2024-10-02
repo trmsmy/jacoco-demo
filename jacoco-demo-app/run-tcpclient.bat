@@ -1,0 +1,1 @@
+java -javaagent:src/main/resources/lib/org.jacoco.agent-0.8.12-runtime.jar=address=localhost,port=6300,output=tcpclient -jar target/jacoco-demo-0.0.1-SNAPSHOT.jar
